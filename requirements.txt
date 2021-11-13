@@ -2,3 +2,4 @@ flask
 cs50
 sql
 gunicorn
+python-3.9.8
