@@ -1,0 +1,6 @@
+flask
+cs50
+sql
+render_template
+request
+gunicorn
