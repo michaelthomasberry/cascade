@@ -1,5 +1,4 @@
 flask
 cs50
 sql
-request
 gunicorn
